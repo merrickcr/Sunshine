@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Metawear</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_disconnect">disconnect</string>
+    <string name="action_connect">connect</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="label_manufacturer">Manufacture</string>
+    <string name="label_firmware_version">Firmware Version</string>
+    <string name="label_hardware_version">Hardware Version</string>
+    <string name="label_serial_number">Serial Nuber</string>
+    <string name="label_switch">Switch</string>
+    <string name="label_battery_level"><b><i>Battery Level</i></b></string>
+    <string name="label_remote_rssi"><b><i>Remote RSSI</i></b></string>
+    <string name="label_reset"><b><i>Reset</i></b></string>
+</resources>
